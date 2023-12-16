@@ -4,3 +4,4 @@ configs:
     level: debug
     output: stderr
     format: json
+  custom: customConfig
