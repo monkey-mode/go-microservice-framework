@@ -1,0 +1,6 @@
+configs:
+  addr: ":80"
+  log_property:
+    level: debug
+    output: stderr
+    format: json
